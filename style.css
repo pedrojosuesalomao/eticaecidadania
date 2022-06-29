@@ -1,0 +1,64 @@
+.descriçao{
+           
+    padding: 10px;
+    margin: 30px;
+
+}
+
+#descriçao2{
+font-size: 15pt;
+color: white;
+font-family: arial;
+}
+
+        body{
+            background-image: url(https://scontent.fgig4-1.fna.fbcdn.net/v/t39.30808-6/289755721_1229118201225109_6533984285680854199_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGnyNJGljKXdXEUHQDQDk_zk7-qc-kF6JyTv6pz6QXonCvSBvunGIVYtfMW7AFdq1S24MrRuZZgxQNxowwfmy8X&_nc_ohc=8ZTY-nmqYRsAX9He5tX&_nc_ht=scontent.fgig4-1.fna&oh=00_AT-QoBxCegX7wl-LXLT8-FFuWlJClKUk7pP1MGsWDGP3fw&oe=62C23A97);
+            background-size: cover;
+            background-repeat: no-repeat;
+    
+
+ position: right;
+}
+
+
+.corpo{
+    margin: auto;
+max-width:800px ;
+min-width: 320px;
+}
+h1{
+    color: white;
+    font-size: 30pt;
+    text-align: center;
+}
+
+#videos{
+ 
+align-items: center;
+text-align: center;
+width: 100%;
+
+}
+.opiniao{
+ 
+    align-items: center;
+    text-align: center;
+
+
+}
+
+#logo{
+height: 130px;
+width: auto;
+margin:auto;
+padding: 20px;
+align-items: center;
+text-align: center;
+display: block;
+}
+
+p{
+text-align: center;
+align-items: center;
+
+}   
